@@ -1,9 +1,10 @@
 {
   "name": "@song940/openai",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "description": "OpenAI JavaScript Library",
   "main": "index.js",
+  "types": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

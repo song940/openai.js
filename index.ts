@@ -1,0 +1,1 @@
+declare module '@song940/openai';
