@@ -1,0 +1,13 @@
+{
+  "name": "@song940/openai",
+  "version": "0.0.0",
+  "type": "module",
+  "description": "OpenAI JavaScript Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["openai", "chatgpt"],
+  "author": "Lsong <song940@gmail.com> (https://lsong.org/)",
+  "license": "MIT"
+}
