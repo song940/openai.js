@@ -16,10 +16,10 @@ export class OpenAI {
     return res.json();
   }
   createCompletion(request) {
-    return this.post(`/v1/completions`, request);
+    return this.post(`/completions`, request);
   }
 
   createChatCompletion(request) {
-    return this.post(`/v1/chat/completions`, request);
+    return this.post(`/chat/completions`, request);
   };
 }
